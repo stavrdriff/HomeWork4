@@ -1,0 +1,103 @@
+body {
+   background: #990909;
+}
+.container {
+   width: 90%;
+   margin: 0 auto;
+}
+.logo {
+   width: 500px;
+   text-align: center;
+   margin: 40px auto 20px;
+}
+.logo a {
+   text-decoration: none;
+   color: #fff;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   font-size: 16px;
+   letter-spacing: 7px;
+}
+.logoLine {
+   width: 500px;
+   height: 2px;
+   border: none;
+   margin-top: 3px;
+   margin-bottom: 3px;
+   background: linear-gradient(0.25turn, #990909, #ffffff, #990909);
+}
+.navi {
+   width: 100%;
+   margin: 0 auto;
+   background: #000;
+   text-align: center;
+}
+.navi a {
+   text-decoration: none;
+   text-align: center;
+   color: #fff;
+}
+.home,
+.about,
+.services,
+.contact {
+   margin: 30px 50px 0;
+   width: 200px;
+   display: inline-block;
+}
+.navi img {
+   width: 200px;
+}
+.article {
+   width: 100%;
+   margin: 5px auto 20px;
+
+}
+.leftBar {
+   width: 25%;
+   height: 500px;
+   background: #7d0909;
+   display: inline-block;
+
+   margin-top: 5px;
+   line-height: 30px;
+}
+.leftBar a {
+   font-size: 20px;
+   color: #e95b11;
+   vertical-align: top;
+}
+.centralBar {
+   display: inline-block;
+   color: #fff;
+   width: 55%;
+   vertical-align: top;
+}
+.rightBar {
+   display: inline-block;
+   width: 17%;
+   height: 500px;
+   background: #e3dddd;
+   vertical-align: top;
+   margin-top: 5px;
+   float: right;
+}
+.rightBar hr {
+   width: 100px;
+}
+.rightBar h1 {
+   background: #bdbdbd;
+   text-align: center;
+   margin: 2px;
+}
+.rightBar p {
+   margin: 2px;
+}
+.copyright {
+   margin: 0 auto;
+   width: 90%;
+   text-align: center;
+   background: #e95b11;
+   color: #fff;
+   font-weight: bold;
+}
