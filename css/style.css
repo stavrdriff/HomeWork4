@@ -6,7 +6,7 @@ body {
    margin: 0 auto;
 }
 .logo {
-   width: 500px;
+   width: 600px;
    text-align: center;
    margin: 40px auto 20px;
 }
@@ -22,8 +22,7 @@ body {
    width: 500px;
    height: 2px;
    border: none;
-   margin-top: 3px;
-   margin-bottom: 3px;
+  margin: 3px auto;
    background: linear-gradient(0.25turn, #990909, #ffffff, #990909);
 }
 .navi {
