@@ -40,12 +40,13 @@ body {
 .about,
 .services,
 .contact {
-   margin: 30px 50px 0;
+   margin: 30px 50px 20px;
    width: 300px;
    display: inline-block;
 }
 .navi img {
    width: 300px;
+   margin-bottom: 10px;
 }
 .article {
    width: 100%;
